@@ -1,5 +1,5 @@
 # Simple_crud_practice
-Code for practicing simple crud operation with express &amp; mongodb.
+Code for practicing simple crud operation with express &amp; mongodb, while using mongoose as ORM to manipulate data.
 
 I watch this tutorial to finish my practice code:
 
